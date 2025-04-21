@@ -65,3 +65,8 @@ VectorPlayground is an interactive, web-based 3D application designed for visual
 * And more!
 
 ## Use It Here [VectorPlayground](https://git-aarya.github.io/VectorPlayground/)
+
+![VectorPlayground Screenshot](main_page.png)
+
+
+
