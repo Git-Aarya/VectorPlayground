@@ -56,14 +56,6 @@ VectorPlayground is an interactive, web-based 3D application designed for visual
 * JavaScript
 * three.js (for 3D graphics and vector math)
 
-## 🔮 Potential Future Features
-
-* Matrix Transformations
-* Planes and Lines
-* Vector Fields
-* Step-by-step Operation Visualization
-* And more!
-
 ## Use It Here [VectorPlayground](https://git-aarya.github.io/VectorPlayground/)
 
 ![VectorPlayground Screenshot](main_page.png)
