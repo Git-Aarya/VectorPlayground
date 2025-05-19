@@ -56,9 +56,13 @@ VectorPlayground is an interactive, web-based 3D application designed for visual
 * JavaScript
 * three.js (for 3D graphics and vector math)
 
+## 📜 License
+
+This project is licensed under the **MIT License**. You can find the full license text in the `LICENSE` file in the repository.
+
 ## Use It Here [VectorPlayground](https://git-aarya.github.io/VectorPlayground/)
 
-![VectorPlayground Screenshot](main_page.png)
+![VectorPlayground Screenshot](assets/main_page.png)
 
 
 
